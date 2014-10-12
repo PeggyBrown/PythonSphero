@@ -30,5 +30,5 @@ Notes
 This software has been tested on OS X 10.9 and Sphero 2.0. And it works. On my computer. ;-) Also, check out awesome educational materials on an official Sphero's [Education site](http://www.gosphero.com/education/) that partially inspired the code snippets here. Aw, did I mention that [Sphero](http://www.gosphero.com/) is really cool for playing and learning and (playing and learning)?
 
 License
---
+---
 CC
